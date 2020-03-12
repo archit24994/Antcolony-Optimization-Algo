@@ -1,0 +1,12 @@
+// Test prune function for closed/maximal task
+//                                        
+//            X                            
+//            |                            
+//            A                             
+//           / \                             
+//          B   E                            
+//         / \                              
+//        C   D                            
+//                                    
+1 X,A,B,C,^,D,^,^,E,^,^,^,
+2 X,A,B,C,^,D,^,^,E,^,^,^,

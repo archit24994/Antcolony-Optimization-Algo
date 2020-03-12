@@ -1,0 +1,13 @@
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMinerV2\CCTreeMiner\bin\Debug\CCTreeMinerSln.dll
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMinerV2\CCTreeMiner\bin\Debug\CCTreeMinerSln.pdb
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMinerV2\CCTreeMiner\obj\Debug\CCTreeMinerSln.dll
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMinerV2\CCTreeMiner\obj\Debug\CCTreeMinerSln.pdb
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMinerV2\CCTreeMiner\bin\Debug\nunit.framework.dll
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMinerV2\CCTreeMiner\bin\Debug\nunit.framework.xml
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMinerV2\CCTreeMiner\obj\Debug\CCTreeMiner.csprojResolveAssemblyReference.cache
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\bin\Debug\CCTreeMinerSln.dll
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\bin\Debug\CCTreeMinerSln.pdb
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\bin\Debug\nunit.framework.dll
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\bin\Debug\nunit.framework.xml
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\obj\Debug\CCTreeMinerSln.dll
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\obj\Debug\CCTreeMinerSln.pdb

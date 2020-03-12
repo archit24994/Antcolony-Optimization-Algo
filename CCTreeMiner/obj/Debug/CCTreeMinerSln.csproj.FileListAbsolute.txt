@@ -1,0 +1,4 @@
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\bin\Debug\CCTreeMinerV2.dll
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\bin\Debug\CCTreeMinerV2.pdb
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\obj\Debug\CCTreeMinerV2.dll
+D:\MyCode\CtMiner\CCTreeMinerV2\CCTreeMiner\obj\Debug\CCTreeMinerV2.pdb
